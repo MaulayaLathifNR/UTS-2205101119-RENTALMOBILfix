@@ -1,25 +1,59 @@
-# Lathif Rental App
-Aplikasi mobile Android untuk simulasi layanan rental kendaraan.
+# 🚗 Lathif Rental App
 
-## Identitas
-Nama : Maulaya Lathif Nur Rohman
-Nim  : 2205101119
-Kelas: 7/E
+**Lathif Rental App** adalah aplikasi mobile berbasis **Android** yang dibuat untuk mensimulasikan layanan **rental kendaraan**.  
+Aplikasi ini dikembangkan sebagai **tugas UTS Mata Kuliah Pemrograman Bergerak**.
 
-## Konsentrasi
-Smartphone (Android)
+---
 
-## Fitur
-- Tampilan UI aplikasi rental
-- Navigasi antar halaman
-- Form input data
-- Logo dan branding aplikasi
+## 📌 Identitas Mahasiswa
+- **Nama** : Maulaya Lathif Nur Rohman  
+- **NIM**  : 2205101119  
+- **Kelas**: 7/E  
 
-## Tools
-- Android Studio
-- Java / Kotlin
-- GitHub
+---
 
-## Luaran
-- Screenshot aplikasi link gdrive : https://drive.google.com/drive/u/0/folders/1rg-yEGs2njtzSeg2uBdJIsGQ7lmxU-ee
-- Source code (repository ini)
+## 🎯 Konsentrasi
+**Pengembangan Aplikasi Mobile (Android / Smartphone)**
+
+---
+
+## ✨ Fitur Aplikasi
+- 📱 Tampilan UI Dashboard aplikasi rental
+- 🚘 Informasi daftar mobil
+- 📝 Form penyewaan kendaraan
+- 📄 Halaman struk penyewaan
+- 🔄 Navigasi antar halaman
+- 🎨 Logo & branding aplikasi
+
+---
+
+## 🛠️ Tools & Teknologi
+- **Android Studio**
+- **Bahasa Pemrograman**: Java
+- **UI**: XML Layout
+- **Version Control**: Git & GitHub
+
+---
+
+## 📂 Luaran / Output
+- 📸 **Screenshot Aplikasi**  
+  👉 Google Drive:  
+  https://drive.google.com/drive/folders/1rg-yEGs2njtzSeg2uBdJIsGQ7lmxU-ee
+
+- 💻 **Source Code Aplikasi**  
+  👉 Repository GitHub ini
+
+---
+
+## 📖 Deskripsi Singkat
+Aplikasi ini dibuat untuk membantu pengguna memahami alur sistem rental kendaraan, mulai dari melihat informasi mobil, melakukan penyewaan, hingga menampilkan hasil transaksi dalam bentuk struk.
+
+---
+
+## 🧑‍💻 Author
+**Maulaya Lathif Nur Rohman**  
+Mahasiswa – Pemrograman Bergerak
+
+---
+
+> _Repository ini dibuat untuk keperluan akademik (UTS Pemrograman Bergerak)._
